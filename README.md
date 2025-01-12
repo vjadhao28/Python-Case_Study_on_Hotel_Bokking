@@ -1,4 +1,4 @@
-# Python-Case_Study_on_Hotel_Bokking
+# Python-Case_Study_on_Hotel_Booking
 
 Case_Study_on_Hotel_Bokking
 
@@ -10,7 +10,7 @@ Assumptions:
 
 Data spans 2015-2017.
 Information remains current for efficient analysis.
-Proposed techniques have no unforeseen negatives.
+The proposed techniques have no unforeseen negatives.
 No prior use of suggested solutions.
 Booking cancellations significantly affect revenue.
 Cancellations result in vacant rooms.
